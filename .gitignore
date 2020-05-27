@@ -37,7 +37,7 @@ test/
 web
 i_am_rich.iml
 pubspec.lock
-pubspec.yaml
+# pubspec.yaml
 
 # Web related
 lib/generated_plugin_registrant.dart

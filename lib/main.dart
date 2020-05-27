@@ -11,7 +11,7 @@ void main() {
         ),
         body: Center(
           child: Image(
-            image: NetworkImage('https://feninjer.com.br/wp-content/uploads/2019/07/Diamond-768x432.jpeg'),
+            image: AssetImage('images/diamond.png'),
           ),
         ),
       ),
