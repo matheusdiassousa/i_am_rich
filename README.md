@@ -2,4 +2,4 @@
 
 A new flutter project, used to put knowledge in practice.
 
-This App makes part of road activities of "Introduction to Flutter Development Using Dart" from App Brewery Course.
+This App makes part of activity road of the course "Introduction to Flutter Development Using Dart" from App Brewery. 
